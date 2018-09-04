@@ -1,7 +1,7 @@
 /* W04
-*  temperatureAnalyzerTwo.c
-*  Ivy Leano
-*/
+ * temperatureAnalyzerTwo.c
+ * Ivy Leano
+ */
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
