@@ -6,8 +6,8 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-#define	MINDAYS 3
-#define MAXDAYS	10
+#define MINDAYS 3
+#define MAXDAYS 10
 
 int main(void) 
 {
